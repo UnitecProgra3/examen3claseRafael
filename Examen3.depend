@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1386728851 source:/home/Snayder/Escritorio/Examen3/main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+	<fstream>
+
